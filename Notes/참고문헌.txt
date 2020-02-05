@@ -1,0 +1,3 @@
+https://forum.unity.com/threads/toon-shaders-with-urp-and-shader-graph.750743/
+https://www.youtube.com/watch?time_continue=2&v=_jTXd3x6gOY&feature=emb_logo
+https://unity3d.com/kr/how-to/unity-ui-optimization-tips
